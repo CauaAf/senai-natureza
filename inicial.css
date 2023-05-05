@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.primeira{
+    display: flex;
+    justify-content: space-between;
+}
+.primeira{
+    display: inline-block;
+    width: 50%;
+    height: auto;
+    margin: 0 10px;
+  }
